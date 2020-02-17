@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "bundle.css",
+  "sources": [
+    "../../App.svelte"
+  ],
+  "sourcesContent": [
+    "<script>\n  export let name;\n</script>\n\n<main>\n  <h1>freda's page</h1>\n  <p>* a programmer based in chinatown, nyc</p>\n  <a href=\"/blog\">blog</a>\n  <h2>projects</h2>\n  <ul>\n    <li><a href=\"/sequencer\">sequencer</a></li>\n    <li><a href=\"/magiclamp\">mock terminal</a></li>\n  </ul>\n  <h2>archive</h2>\n  <ul>\n    <li><a href=\"/2017\">2017</a></li>\n    <li><a href=\"/2016\">2016</a></li>\n  </ul>\n  <h2>sketches</h2>\n  <ul>\n    <li><a href=\"/grammar\">rita + processing</a></li>\n    <li><a href=\"/2048\">functional 2048</a></li>\n  </ul>\n</main>\n<style>\n  main {\n    text-align: center;\n    padding: 1em;\n    max-width: 240px;\n    margin: 0 auto;\n  }\n\n  h1 {\n    font-size: 4em;\n    font-weight: 100;\n  }\n\n  h2 {\n    color: #bada55;\n    font-weight: normal;\n  }\n\n  ul {\n    padding: 0;\n  }\n\n  ul > li {\n    list-style: none;\n  }\n\n  @media (min-width: 640px) {\n    main {\n      max-width: none;\n    }\n  }\n</style>\n"
+  ],
+  "names": [],
+  "mappings": "AAyBE,IAAI,4BAAC,CAAC,AACJ,UAAU,CAAE,MAAM,CAClB,OAAO,CAAE,GAAG,CACZ,SAAS,CAAE,KAAK,CAChB,MAAM,CAAE,CAAC,CAAC,IAAI,AAChB,CAAC,AAED,EAAE,4BAAC,CAAC,AACF,SAAS,CAAE,GAAG,CACd,WAAW,CAAE,GAAG,AAClB,CAAC,AAED,EAAE,4BAAC,CAAC,AACF,KAAK,CAAE,OAAO,CACd,WAAW,CAAE,MAAM,AACrB,CAAC,AAED,EAAE,4BAAC,CAAC,AACF,OAAO,CAAE,CAAC,AACZ,CAAC,AAED,gBAAE,CAAG,EAAE,cAAC,CAAC,AACP,UAAU,CAAE,IAAI,AAClB,CAAC,AAED,MAAM,AAAC,YAAY,KAAK,CAAC,AAAC,CAAC,AACzB,IAAI,4BAAC,CAAC,AACJ,SAAS,CAAE,IAAI,AACjB,CAAC,AACH,CAAC"
+}
