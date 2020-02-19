@@ -11,8 +11,8 @@
 
 <main>
   <img alt="photo of freda" src="/pic.png" height="600px" />
-  <h2>freda suyi ding</h2>
   <Social />
+  <h2>freda suyi ding</h2>
   <Bio />
   <Projects />
 </main>

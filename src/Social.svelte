@@ -8,7 +8,5 @@
     href="https://docs.google.com/document/d/18GQSqlOH4n46326_tAB26Go9NKEBiMQGqiRomDJTP6w/edit?usp=sharing"
     >cv</a
   >
+  <a href="/blog">blog</a>
 </div>
-    <div>
-<a href="/blog">blog</a>
-    </div>
