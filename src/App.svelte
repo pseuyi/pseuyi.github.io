@@ -14,8 +14,6 @@
 
   <p>
     is a computer programmer based in chinatown, nyc.
-  </p>
-  <p>
     they are interested in frameworks for social progress, expressiveness of
     code, and experimenting with ways of thinking.
   </p>
@@ -95,7 +93,7 @@
       left: 65%;
     }
   }
-
+/*
   h1 {
     font-size: 4em;
     font-weight: 100;
@@ -108,6 +106,7 @@
     color: black;
     font-weight: normal;
   }
+  */
 
   @media (min-width: 640px) {
     main {
