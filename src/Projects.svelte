@@ -26,3 +26,16 @@
   </ul>
 </ol>
 
+<style>
+  ol {
+    list-style-type: cjk-earthly-branch;
+  }
+
+  ul {
+    padding: 0;
+  }
+
+  ul > li {
+    list-style: none;
+  }
+</style>

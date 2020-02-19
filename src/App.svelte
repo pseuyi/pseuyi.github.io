@@ -109,18 +109,6 @@
     font-weight: normal;
   }
 
-  ol {
-    list-style-type: cjk-earthly-branch;
-  }
-
-  ul {
-    padding: 0;
-  }
-
-  ul > li {
-    list-style: none;
-  }
-
   @media (min-width: 640px) {
     main {
       max-width: none;
