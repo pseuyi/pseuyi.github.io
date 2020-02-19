@@ -20,7 +20,6 @@
   </p>
   <div>
     <Social />
-    <a href="/blog">blog</a>
   </div>
 
   <ol>
