@@ -23,7 +23,7 @@
 
   
   <li><h2>writing</h2></li>
-  <header><a href="/blog">about programming</a></header>
+  <header><a href="https://pseuyi.github.io/blog">about programming</a></header>
   <br/>
   <header>about art</header>
   <ul>
