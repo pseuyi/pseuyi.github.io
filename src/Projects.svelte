@@ -1,11 +1,11 @@
-<ol>
+<ul>
   <li><h2>apps</h2></li>
   <ul>
-    <li><a href="/modes">webmidi piano w modes</a></li>
+    <li><a href="/modes">webmidi piano</a></li>
     <li><a href="/2048">2048</a></li>
     <li><a href="/sequencer">sequencer</a></li>
     <li>
-      <a href="https://iso-note.herokuapp.com/">markdown + html converter</a>
+      <a href="https://iso-note.herokuapp.com/">markdown + html notes</a>
     </li>
     <li><a href="/magiclamp">web terminal</a></li>
     <li>
@@ -24,11 +24,11 @@
     <li><a href="/2017">2017</a></li>
     <li><a href="/2016">2016</a></li>
   </ul>
-</ol>
+</ul>
 
 <style>
-  ol {
-    list-style-type: cjk-earthly-branch;
+  h2 {
+    font-size: 1.31rem;
   }
 
   ul {

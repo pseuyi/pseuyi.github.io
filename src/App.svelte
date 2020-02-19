@@ -1,4 +1,5 @@
 <script>
+  import Bio from './Bio.svelte';
   import Social from './Social.svelte';
   import Projects from './Projects.svelte';
 </script>
@@ -9,19 +10,15 @@
     -->
 
 <main>
-  <img alt="photo of freda" src="/pic.png" height="400px" />
+  <img alt="photo of freda" src="/pic.png" height="600px" />
   <h2>freda suyi ding</h2>
 
-  <p>
-    is a computer programmer based in chinatown, nyc.
-    they are interested in frameworks for social progress, expressiveness of
-    code, and experimenting with ways of thinking.
-  </p>
-  <div>
-    <Social />
-    <Projects />
-  </div>
+  <Bio />
+  <Social />
+  <Projects />
+
 </main>
+
 <style>
   main {
     padding: 1em;
@@ -93,7 +90,10 @@
       left: 65%;
     }
   }
-/*
+  h2 {
+    color: #333;
+  }
+  /*
   h1 {
     font-size: 4em;
     font-weight: 100;
